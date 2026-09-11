@@ -1,0 +1,28 @@
+{
+  "pages": 28,
+  "viewports": [
+    {
+      "width": 1440,
+      "pages_checked": 28,
+      "javascript_errors": []
+    },
+    {
+      "width": 390,
+      "pages_checked": 28,
+      "javascript_errors": []
+    },
+    {
+      "width": 768,
+      "pages_checked": 28,
+      "javascript_errors": []
+    }
+  ],
+  "errors": [],
+  "render_method": "Local HTML, CSS, JS and images inlined into a headless Chromium document. Browser policy blocks URL navigation in this environment.",
+  "interactions": [
+    "Mobile menu opens",
+    "Escape closes menu and returns focus",
+    "FAQ accordion opens"
+  ],
+  "http_pages_verified": 28
+}
